@@ -12,3 +12,11 @@ A fullstack Javascript application using NodeJs, React and React Native.
 
 ### Details Screen
 <img src="https://github.com/patlopes/be-the-hero/blob/master/readmeFiles/details.PNG" />
+
+## Web Screens
+
+### Home Screen
+<img src="https://github.com/patlopes/be-the-hero/blob/master/readmeFiles/home.PNG" />
+
+### Incidents Screen
+<img src="https://github.com/patlopes/be-the-hero/blob/master/readmeFiles/incidents.PNG" />
