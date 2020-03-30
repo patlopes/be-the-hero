@@ -7,7 +7,8 @@ A fullstack Javascript application using NodeJs, React and React Native.
 ### Splash Screen
 <img src="https://github.com/patlopes/be-the-hero/blob/master/readmeFiles/splash.PNG" />
 
-### Splash Screen
-<img src="https://github.com/patlopes/be-the-hero/blob/master/readmeFiles/splash.PNG" />
-### Splash Screen
-<img src="https://github.com/patlopes/be-the-hero/blob/master/readmeFiles/splash.PNG" />
+### Home Screen
+<img src="https://github.com/patlopes/be-the-hero/blob/master/readmeFiles/homeMobile.PNG" />
+
+### Details Screen
+<img src="https://github.com/patlopes/be-the-hero/blob/master/readmeFiles/details.PNG" />
