@@ -3,4 +3,6 @@
 A fullstack Javascript application using NodeJs, React and React Native.
 
 ## Mobile Screens
-<img src="patlopes/be-the-hero/blob/master/readmeFiles/homeMobile.PNG">
+<img src="https://github.com/patlopes/be-the-hero/blob/master/readmeFiles/splash.PNG">
+<img src="https://github.com/patlopes/be-the-hero/blob/master/readmeFiles/homeMobile.PNG">
+<img src="https://github.com/patlopes/be-the-hero/blob/master/readmeFiles/datails.PNG">
