@@ -52,7 +52,7 @@ export default function Details() {
                             <Text style={styles.incidentValue}>{incident.name} de {incident.city}/{incident.uf}</Text>
 
                             <Text style={styles.incidentProperty}>CASO:</Text>
-                            <Text style={styles.incidentValue}>{incident.title}</Text>
+                            <Text style={styles.incidentValue}>{incident.description}</Text>
 
                             <Text style={styles.incidentProperty}>VALOR:</Text>
                             <Text style={styles.incidentValue}>
