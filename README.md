@@ -3,4 +3,4 @@
 A fullstack Javascript application using NodeJs, React and React Native.
 
 ## Mobile Screens
-<img src="readmeFiles/homeMobile.png">
+<img src="be-the-hero/readmeFiles/homeMobile.png">
